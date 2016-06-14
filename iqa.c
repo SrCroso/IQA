@@ -5,6 +5,8 @@
 double qcf (double v1);
 double qph (double v1);
 double qdbo (double v1);
+double qnt (double v1);
+double qft (double v1);
 
 int main(){
 	double q[9],w[9],cf,ph,dbo,nt,ft,vt,tu,st,o2,qt=1;
